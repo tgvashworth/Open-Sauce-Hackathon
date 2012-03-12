@@ -1,0 +1,48 @@
+
+Developmental Planning
+C1202 Personal & Professional Development
+Tom Ashworth C1103808
+
+Introduction
+
+Personal and professional development is defined by Higher Education in the Learning Society (Dearing Report, 1997) as 
+
+a structured and supported process undertaken by an individual to reflect upon their own learning, performance and/or achievement and to plan for their personal, educational and career development.
+
+Planning of personal and professional development is intended to encourage learning and planning for educational and career-based development, and to improve reflection on progression in these areas.
+
+Beginning with what I’ve achieved, in the essay I outline my short and long term personal and professional goals, and how I intend to achieve them.
+
+Achievements
+
+After A Level I was torn between applying to read Music or Computer Science. The latter won on employability and job prospects, and overall interest I had. I was already working in the field, and music seemed to be an interest for spare time rather than a career choice. The honest reason for my being in Cardiff is that I picked the highest ranking university offering ABB for Computer Science. I picked Cardiff in case I slipped up, and slip up I did.
+
+Thus far my formal qualifications consist of twelve GCSEs at A & A*, three A Levels in Computing (A), Maths (C) and Music (A), as well as a Merit in the ABRSM’s Grade 8 and an A* Extended Project Qualification.
+
+I’ve been paid for web design and development for just over 2 years, and have built sites and done branding work for a number of clients in that time. I’ve also worked or interned at 3 digital agencies and spoken at a web ‘unconference’.
+
+On the musical side of things, I’ve been playing tuba for 8 years or so, and in that time been principal tuba of the National Children’s Orchestra and been a member of the National Youth Wind Orchestra. I’m currently in the Cardiff University Brass Band.
+
+Strengths & Weaknesses
+
+I would judge my strengths to be in self-directed learning and communication. I push myself to be utterly relentless in learning about new technology as well as giving myself the fullest scientific education I can outside of a school or university environment. I learn by doing, so whenever I wish to learn how to do something, I jump in and find out how afterwards. My weaknesses, I would say, are a tendency to obsess over small details, and a slowness to give positive feedback to others. I would also judge that I naturally spend time reflecting on what I could do better, and that this is a strength.
+
+Academic Goals
+
+I spend a great deal of my time in self-directed learning, and I greatly enjoy finding out new things and putting them to use. I know from experience that I do not learn anything until I do it, so any time that I find something challenging, including in a lecture, I make a mental note to try it for myself when I have a chance. For example, where initially I might not have understood an algorithm like binary search, after implementing a few times I have a very good grasp of how the algorithm works (and how to break it), not just what it theoretically does. This method has really helped me in areas (particularly in Maths) where I’ve struggled.
+
+Due to past programming experience, the more practical modules I generally feel have gone better. That said, I came to university because I wanted a formal grounding in the theory of computation and algorithmics, discrete mathematics and  the nature of computer hardware - all areas that are challenging to self teach. Therefore I am enjoying the theoretical modules too because they are what I actively want to learn.
+
+Further down the academic line, I think I’d like to look into human-human and human-computer interaction on the web, and the internet as an open platform for large-scape human interaction.
+
+Personal Goals
+
+My personal goal, like many others, is to be happy. Right now I’m happiest when I’m developing or designing, so that’s where my focus is. Playing music also makes me happy, so I joined the Cardiff Uni Brass Band. I also bought myself a guitar and I write music in my spare time so that I can keep the music up in Cardiff. 
+
+Someday I’d like to travel; America and South East Asia interest me, although I’m not sure when I’ll get round to it. I’ve never been a great traveller, but maybe a trip far out of my comfort zone would do me good, especially as travel can broaden horizons and offer new experiences that could not be attained by staying at home.
+
+Professionally, I would like to move to America and work in a startup environment at a company like github or Buffer. I have absolutely no wish to work in a corporate environment, and I’ll do my best to avoid it like the plague.
+
+References
+
+Dearing, R., 1997. Higher education in the learning society. London: Stationary Office.
